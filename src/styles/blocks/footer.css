@@ -1,0 +1,13 @@
+.footer{
+    background-color: #6A6A6A;
+    height: 108px;
+    margin-top: 100px;
+}
+.footer__wrapper{
+}
+.footer__text{
+    color: #FFF;
+    font-size: 11px;
+    line-height: 20px; 
+    text-align: right;
+}

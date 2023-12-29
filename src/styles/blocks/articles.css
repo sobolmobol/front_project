@@ -1,0 +1,23 @@
+.articles{
+    margin-top: 50px;
+}
+.articles__heading{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px; 
+    letter-spacing: -0.8px;
+}
+.articles__description{
+    margin-top: 16px;
+    color:  #6B7280;
+    text-align: center;
+    font-size: 20px;
+    line-height: 28px;
+}
+.articles__wrapper{
+    margin-top: 48px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0,1fr));
+    gap: 20px;
+}

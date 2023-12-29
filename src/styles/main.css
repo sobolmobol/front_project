@@ -1,2 +1,10 @@
 @import 'global/normalize.css';
 @import 'global/utility.css';
+@import 'blocks/header.css';
+@import 'blocks/main-heading.css';
+@import 'blocks/info.css';
+@import 'blocks/articles.css';
+@import 'blocks/article.css';
+@import 'blocks/footer.css';
+@import 'blocks/paragraphs.css';
+@import 'blocks/panel.css';
