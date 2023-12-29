@@ -1,0 +1,33 @@
+.article{
+    border-radius: 8px;
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.article__img{
+    height: 192px;
+    width: 100%;
+    object-fit: cover;
+}
+.article__body{
+    padding: 24px;
+    flex-grow: 1;
+}
+.article__title{
+    color:  #111827;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px; 
+}
+.article__text{
+    margin-top: 12px;
+    color:  #6B7280;
+    line-height: 24px; 
+}
+.article__time{
+    color: #6B7280;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 24px;
+}
